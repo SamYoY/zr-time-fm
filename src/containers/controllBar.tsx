@@ -22,7 +22,7 @@ class ControllBar extends Component {
   }
   render() {
     return (
-      <div className="za-controll-bar">
+      <div className="rz-controll-bar">
         <div className="controll-bar-item" onClick={this.toHome}>
           {/* <Icon className="bar-icon" theme="primary" type="date"/> */}
           主页

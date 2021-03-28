@@ -4,7 +4,7 @@ import '../../assets/scss/infoMoments.scss';
 class Commend extends Component {
   render() {
     return (
-      <div className='za-time-fm-content'>推荐榜单</div>
+      <div className='rz-time-fm-content'>推荐榜单</div>
     )
   }
 }

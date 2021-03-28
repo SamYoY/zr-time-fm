@@ -10,7 +10,7 @@ class ChatItemList extends Component {
   }
   getChatItem = () => {
     return (
-      <div className="za-time-fm-chatMoment">
+      <div className="rz-time-fm-chatMoment">
         <Cell onClick={this.toChatWindow} className="chat-moment">
           <div className="chat-atavar"></div>
           <div className="chat-content">

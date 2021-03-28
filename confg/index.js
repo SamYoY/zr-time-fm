@@ -5,15 +5,15 @@ module.exports = {
   dev: {
     proxyTable: {
       '/api': {
-        target: 'http://za-open-productmarket-h5-bff.test.za.biz/',
+        target: 'http://test.com',
         changeOrigin: true,
       },
       '/promote': {
-        target: 'http://openplatform-open-za-open-promote-product.test.za.biz/',
+        target: 'http://test.com',
         changeOrigin: true,
       },
       '/product': {
-        target: 'http://2480-openplatform-open-za-open-productmarket-engine.test.za.biz/',
+        target: 'http://test.com',
         changeOrigin: true,
       },
     },

@@ -4,7 +4,7 @@ import '../../assets/scss/infoMoments.scss';
 class Community extends Component {
   render() {
     return (
-      <div className='za-time-fm-content'>社区信息</div>
+      <div className='rz-time-fm-content'>社区信息</div>
     )
   }
 }

@@ -66,7 +66,7 @@ const getRouter = () => {
       </Router>
     </Provider>
     // <HashRouter>
-    //   <div className="za-time-fm-container">
+    //   <div className="rz-time-fm-container">
     //     <Switch>
     //       <Route path="/login" component={loadable(() => import('../containers/login'))}></Route>
     //       <Route path="/register" component={loadable(() => import('../containers/register'))}></Route>
