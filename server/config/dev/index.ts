@@ -1,5 +1,5 @@
 const devApiMapper = {
-  'api/procudtMarketH5': 'http://za-open-productmarket-h5-bff.test.za.biz/api/productmarketh5',
+  'api/H5': 'http://test.com',
   'api/mock': ''
 }
 
